@@ -1,2 +1,8 @@
-# cdw-user-study
-A user study on cloud data warehouse pricing models and related features.
+# Cloud Data Warehouse User Study
+A user study on the pricing models and related features of the cloud data warehouse.
+
+## Introduction
+
+## Filtering Rules
+
+## Q&A
