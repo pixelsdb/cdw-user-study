@@ -26,7 +26,7 @@ Cloud data warehouses (including cloud data lakes and cloud lakehouses) provide 
 
 **Q4: If you were a user of a cloud data warehouse and needed to submit a set of queries to complete a data analysis task, which of the following pricing models do you think is best?**
 
-* **1**. **Provisoned Pricing:** Users estimate the required computing resources (such as memory capacity, number of CPUs, or number of processing slots) for queries, and pay in advance for the estimated amount of resources, for example at a cost of \$1,000.
+* **1**. **Provisioned Pricing:** Users estimate the required computing resources (such as memory capacity, number of CPUs, or number of processing slots) for queries, and pay in advance for the estimated amount of resources, for example at a cost of \$1,000.
 * **2**. **On-demand Pricing:** Users submit queries directly, and the system bills based on the amount of data scanned by each query. If the total amount of data scanned by the queries is small, the total cost may be less than \$1000; Otherwise, the total cost may exceed \$1000.
 
 **Q5:** [displayed when option 2 of Q4 is selected] **For on-demand pricing, if the system further provides several performance and price levels that you can choose for each query, the highest level is as performant and expensive as the original on-demand pricing in option 2 of Q4, and the lower levels may be significantly slower but much cheaper. Compared to the original on-demand pricing, do you prefer this flexible pricing model?**
