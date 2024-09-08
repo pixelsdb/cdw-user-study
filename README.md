@@ -10,7 +10,8 @@ This user study is to understand the preferences of cloud data warehouse custome
 
 The origin questionnaire is in Chinese. An English translation is [HERE](questionnaire.md).
 We create the questionnaire in Tencent Survey and send to the database communities on WeChat.
-The questionnaire was view by 887 people and answered by 416 participants.
+Each WeChat account can only answer the questionnaire once, and all WeChat accounts have been verified with real names.
+The questionnaire was view by 887 and answered by 416 participants.
 
 ## Validation Rules
 We filter out invalid submissions using the validation rules.
